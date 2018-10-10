@@ -1,0 +1,12 @@
+Bangor	02/10/17	24.7	W	3.5	Pauline Stinson
+Orono	02/10/17	23.65	NW	3.7	Suan Speller
+Bangor	02/11/17	22.0	W	3.3	Tom McBride
+Calais	02/11/17	25.1	W	3.9	Penny Jane Thomas
+Calais	02/11/17	25.75	W	3.1	Xang Xao
+Bangor	02/12/17	21.9	N	3.8	Hillary Tines
+Bangor	02/13/17	28.5	N	3.1	Theresa Sanborn
+Orono	02/13/17	26.85	N	3.2	Owen Mark Prentiss
+Orono	02/13/17	26.9	NE	3.1	Isaac Short
+Calais	02/13/17	23.15	N	3.7	Xang Xao
+Orono	02/14/17	28.6	E	3.1	Isaac Short
+Bangor	02/14/17	21.75	E	3.6	Jeff Byron	

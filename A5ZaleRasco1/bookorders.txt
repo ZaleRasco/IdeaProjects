@@ -1,0 +1,37 @@
+Introduction to Spreadsheets
+978-1-269-50982-4
+COS103
+45
+An Introduction to Programming using Visual Basic
+978-0-13-454278-2
+COS120
+41
+Introduction to Java
+978-0-13-467094-2
+COS125
+95
+Succeeding in Business with Microsoft Excel
+978-1-285-09914-9
+COS213
+96
+Introduction to Programming with C++
+978-0-13-325281-1
+COS220
+82
+Data Structures and Algorithms in C++
+978-0-13-284737-2
+COS221
+33
+Computer Organization and Architecture
+978-0-13-410161-5
+COS235
+92
+Game Graphics Programming
+978-0-13-56712-2
+COS312
+40
+Operating Systems
+978-0-13-4X50013-9
+COS331
+52
+
